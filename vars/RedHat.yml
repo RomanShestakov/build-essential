@@ -2,6 +2,7 @@
 
 buildessential_packages:
  - autoconf
+ - automake
  - gcc
  - bison
  - flex
