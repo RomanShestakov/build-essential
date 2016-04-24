@@ -8,3 +8,4 @@ buildessential_packages:
   - flex
   - gettext
   - ncurses-dev
+  - libssl-dev
