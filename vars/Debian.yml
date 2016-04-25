@@ -7,5 +7,8 @@ buildessential_packages:
   - build-essential
   - flex
   - gettext
-  - ncurses-dev
+  - libncurses5-dev
+  - openssl
   - libssl-dev
+  - fop
+  - unixodbc
