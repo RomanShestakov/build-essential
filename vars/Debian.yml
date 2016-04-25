@@ -12,3 +12,4 @@ buildessential_packages:
   - libssl-dev
   - fop
   - unixodbc
+  - libproc
