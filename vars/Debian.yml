@@ -12,6 +12,6 @@ buildessential_packages:
   - libssl-dev
   - fop
   - unixodbc
-  - libprocps-dev
+#- libprocps-dev
   - erlang-dev
   - telnet
